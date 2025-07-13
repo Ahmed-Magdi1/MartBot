@@ -25,7 +25,7 @@ MartBot is an autonomous mobile robot designed specifically to assist elderly an
 ## System Architecture
 
 <div align="center">
-  <img src="images/system_architecture.png" alt="MartBot System Architecture" width="800"/>
+  <img src="images/system_architecture.svg" alt="MartBot System Architecture" width="800"/>
   <p><b>Complete System Architecture and Hardware Integration</b></p>
 </div>
 
