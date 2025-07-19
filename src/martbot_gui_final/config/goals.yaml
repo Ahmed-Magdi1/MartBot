@@ -1,0 +1,18 @@
+goals:
+  Bakery: [3.06,-1.47]
+  Cleaning items: [8.4, 12.5]
+  Coffee-Tea: [3.98,4.82]
+  Dairy: [-2.3,-6.15]
+  Drinks: [-4.3,-10.4]
+  Snacks: [5.2,13.6]
+
+# products:
+#   elarosa tea: [3.0, 4.0]
+#   elarosa: [3.0, 4.0]
+#   vcola: [5.0, 6.0]
+#   spuds chips: [6.0, 7.0]
+#   spuds: [6.0, 7.0]
+#   zeina tissues: [4.0, 5.0]
+#   zeina: [4.0, 5.0]
+#   oxi dish washer: [4.0, 5.0]
+#   oxi: [4.0, 5.0]
