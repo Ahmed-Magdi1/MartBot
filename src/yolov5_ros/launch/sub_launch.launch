@@ -1,0 +1,8 @@
+<launch>
+    <!-- Detection Subscriber Node -->
+    <node pkg="yolov5_ros" type="sub_node.py" name="sub_node" output="screen">
+        <!-- Input topics -->
+        <param name="input_bounding_boxes_topic" value="/yolov5/detections" />
+        <param name="input_detected_objects_topic" value="/detected_objects" />
+    </node>
+</launch>
