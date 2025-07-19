@@ -1,0 +1,9 @@
+
+  <launch>
+
+  
+   <!-- GUI -->
+  <node pkg="martbot_gui_final" type="guitry.py" name="python_gui" output="screen">
+  </node>
+
+</launch>
