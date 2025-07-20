@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="rplidar_motor_control" pkg="rplidar_ros" type="rplidar_ros"/>
+</launch>
+
