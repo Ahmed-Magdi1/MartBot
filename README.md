@@ -157,7 +157,7 @@ MartBot’s navigation system is built on ROS and leverages a combination of glo
 ### STVL + A* Implementation
 
 <div align="center">
-  <img src="images/stvl_combined.png" alt="STVL and A* Visualization" width="600"/>
+  <img src="images/stvl_combined.png" alt="STVL and A* Visualization" width="800"/>
   <p><em>STVL costmap and RGB view integration showing dynamic obstacle detection and path planning</em></p>
 </div>
 
